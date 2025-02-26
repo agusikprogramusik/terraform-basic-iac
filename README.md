@@ -14,12 +14,12 @@ I do not blur IP addresses of instances because all resources are deleted after 
 - [X] Developer user creation with EC2 and S3 privileges
 - [X] Remote terraform.tfstate management
 - [X] Modules usage 
+- [X] SG inbound and outbound policies update
 
 ## To do
 
-- [ ] SG inbound and outbound policies update
 - [ ] Developer user policies adjustment
-- [ ] Containerisation of a simple project
+- [ ] Containerisation of a simple project -> separated repo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee5d9ff5-77ce-44f6-9927-d825a43320c9">
